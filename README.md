@@ -18,9 +18,71 @@
 
 ## 🛠️ Tech Stack
 
-| Languages | Backend & APIs | Frontend | Data / ML | Cloud / DevOps | Databases & Messaging |
-|---|---|---|---|---|---|
-| Python<br>Java<br>C++<br>C<br>Go<br>SQL<br>JavaScript<br>R<br>MATLAB | Spring Boot<br>Django<br>Flask<br>Node.js<br>REST APIs<br>GraphQL<br>LangChain | React<br>Streamlit<br>HTML / CSS<br>Android | PyTorch<br>NumPy<br>Pandas<br>NLP<br>Tableau<br>Matplotlib / Seaborn | AWS Lambda<br>ECS<br>EventBridge<br>Docker<br>Kubernetes<br>CI/CD<br>Linux | PostgreSQL<br>MongoDB<br>DynamoDB<br>Redis<br>Pinecone<br>Kafka |
+**Languages**
+
+<p>
+  <img alt="Python" title="Python" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img alt="Java" title="Java" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img alt="C++" title="C++" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+  <img alt="C" title="C" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img alt="Go" title="Go" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
+  <img alt="JavaScript" title="JavaScript" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img alt="R" title="R" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
+  <img alt="MATLAB" title="MATLAB" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
+</p>
+
+**Backend & APIs**
+
+<p>
+  <img alt="Spring Boot" title="Spring Boot" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+  <img alt="Django" title="Django" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
+  <img alt="Flask" title="Flask" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
+  <img alt="Node.js" title="Node.js" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img alt="GraphQL" title="GraphQL" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
+  <img alt="LangChain" title="LangChain" height="36" src="https://cdn.simpleicons.org/langchain/1C3C3C" />
+</p>
+
+**Frontend**
+
+<p>
+  <img alt="React" title="React" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img alt="Streamlit" title="Streamlit" height="36" src="https://cdn.simpleicons.org/streamlit/FF4B4B" />
+  <img alt="HTML5" title="HTML5" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img alt="CSS3" title="CSS3" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img alt="Android" title="Android" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
+</p>
+
+**Data / ML**
+
+<p>
+  <img alt="PyTorch" title="PyTorch" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
+  <img alt="NumPy" title="NumPy" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
+  <img alt="Pandas" title="Pandas" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+  <img alt="Tableau" title="Tableau" height="36" src="https://cdn.simpleicons.org/tableau/E97627" />
+  <img alt="Matplotlib" title="Matplotlib" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" />
+</p>
+
+**Cloud / DevOps**
+
+<p>
+  <img alt="AWS" title="AWS" height="36" src="https://cdn.simpleicons.org/amazonwebservices/FF9900" />
+  <img alt="Docker" title="Docker" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  <img alt="Kubernetes" title="Kubernetes" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" />
+  <img alt="GitHub Actions" title="GitHub Actions" height="36" src="https://cdn.simpleicons.org/githubactions/2088FF" />
+  <img alt="Jenkins" title="Jenkins" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />
+  <img alt="Linux" title="Linux" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+</p>
+
+**Databases & Messaging**
+
+<p>
+  <img alt="PostgreSQL" title="PostgreSQL" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  <img alt="MongoDB" title="MongoDB" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+  <img alt="DynamoDB" title="DynamoDB" height="36" src="https://cdn.simpleicons.org/amazondynamodb/4053D6" />
+  <img alt="Redis" title="Redis" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
+  <img alt="Pinecone" title="Pinecone" height="36" src="https://cdn.simpleicons.org/pinecone/000000" />
+  <img alt="Kafka" title="Kafka" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" />
+</p>
 
 ---
 
