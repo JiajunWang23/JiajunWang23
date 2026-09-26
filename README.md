@@ -58,14 +58,14 @@
   <img alt="PyTorch" title="PyTorch" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
   <img alt="NumPy" title="NumPy" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
   <img alt="Pandas" title="Pandas" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-  <img alt="Tableau" title="Tableau" height="36" src="https://cdn.simpleicons.org/tableau/E97627" />
+  <img alt="Tableau" title="Tableau" height="30" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
   <img alt="Matplotlib" title="Matplotlib" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" />
 </p>
 
 **Cloud / DevOps**
 
 <p>
-  <img alt="AWS" title="AWS" height="36" src="https://cdn.simpleicons.org/amazonwebservices/FF9900" />
+  <img alt="AWS" title="AWS" height="30" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img alt="Docker" title="Docker" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
   <img alt="Kubernetes" title="Kubernetes" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" />
   <img alt="GitHub Actions" title="GitHub Actions" height="36" src="https://cdn.simpleicons.org/githubactions/2088FF" />
@@ -78,9 +78,9 @@
 <p>
   <img alt="PostgreSQL" title="PostgreSQL" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   <img alt="MongoDB" title="MongoDB" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-  <img alt="DynamoDB" title="DynamoDB" height="36" src="https://cdn.simpleicons.org/amazondynamodb/4053D6" />
+  <img alt="DynamoDB" title="DynamoDB" height="30" src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white" />
   <img alt="Redis" title="Redis" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
-  <img alt="Pinecone" title="Pinecone" height="36" src="https://cdn.simpleicons.org/pinecone/000000" />
+  <img alt="Pinecone" title="Pinecone" height="30" src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" />
   <img alt="Kafka" title="Kafka" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" />
 </p>
 
