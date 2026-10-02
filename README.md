@@ -46,7 +46,15 @@
 
 ## 🚀 Featured Projects
 
+### 📝 PushResume
+
+🔗 [pushresume.net](https://pushresume.net) · [Source](https://github.com/JiajunWang23/pushResume)
+
+Built a free AI-powered resume review and parsing web app that helps candidates improve their applications with clear, actionable feedback and faster iteration. Developed with TypeScript, React / Next.js, and Gemini, with prompt engineering tuned to flag weak verbs, missing impact metrics, and bullets that don't match the target role.
+
 ### ⚡ Real-Time Analytics Dashboard
+
+🔗 [realtime-analytics-dashboard.com](https://realtime-analytics-dashboard.com)
 
 Processed 100K+ daily events with Flask, React, WebSocket, Redis, PostgreSQL, Docker, and Kubernetes. Designed indexed aggregation pipelines over 5M+ records, reduced average query response time by 50%, and supported 1K+ concurrent users with 99.8% uptime.
 
