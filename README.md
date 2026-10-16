@@ -62,10 +62,6 @@ Processed 100K+ daily events with Flask, React, WebSocket, Redis, PostgreSQL, Do
 
 Built a real-time event processing platform with Java, Spring Boot, Kafka, MongoDB, GraphQL, Docker, Kubernetes, Jenkins, and GitHub Actions. Modeled TTL and compound indexes for fast metadata retrieval and validated Kafka / GraphQL paths with 90%+ test coverage.
 
-### 📱 Professor Ratings
-
-Programmed a full-stack Java Android app for UIUC students to search, view, rate, and comment on professor profiles by course and department. Secured REST APIs with JWT authentication and stored ratings in normalized SQL schemas.
-
 ---
 
 ## 📁 More Projects
